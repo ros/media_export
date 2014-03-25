@@ -4,8 +4,8 @@
   <description>
      Placeholder package enabling generic export of media paths.
   </description>
-  <maintainer email="hersh@willowgarage.com">Dave Hershberger</maintainer>
-  <license>BSD</license>  
+  <maintainer email="william@osrfoundation.org">William Woodall</maintainer>
+  <license>BSD</license>
 
   <author>Dave Hershberger</author>
   <url>http://ros.org/wiki/media_export</url>

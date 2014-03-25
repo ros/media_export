@@ -2,8 +2,8 @@
 Changelog for package media_export
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2014-03-24)
+------------------
 * set myself (william) as maintainer
 * Contributors: William Woodall
 

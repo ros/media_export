@@ -2,8 +2,8 @@
 Changelog for package media_export
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2020-03-09)
+------------------
 * Bump CMake version to avoid CMP0048 warning (`#2 <https://github.com/ros/media_export/issues/2>`_)
 * Contributors: Shane Loretz
 
